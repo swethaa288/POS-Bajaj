@@ -1,0 +1,30 @@
+{
+  "jmeter_version" : "5.6.3",
+  "tasks": [
+    {
+    "task_name": "Test-ETBLogin13",
+    "script_name": "ETBTWOFIFTYTOKEN.jmx",
+    "data_files": {
+               "opportunity_file" : "FINALETBONE.csv"
+        
+      }
+   },
+ {
+    "task_name": "Test-ETBLogin14",
+    "script_name": "ETBTWOFIFTYTOKEN.jmx",
+    "data_files": {
+               "opportunity_file" : "FINALETBTWO.csv"
+        
+      }
+   },
+ {
+    "task_name": "Test-ETBLogin15",
+    "script_name": "ETBTWOFIFTYTOKEN.jmx",
+    "data_files": {
+               "opportunity_file" : "FINALETBTHREE.csv"
+        
+      }
+   }
+  
+  ]
+}

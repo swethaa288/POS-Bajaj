@@ -1,0 +1,14 @@
+{
+  "jmeter_version" : "5.6.3",
+  "tasks": [
+    {
+    "task_name": "Test-NLogin21",
+    "script_name": "NTBMETAHUNDRED.jmx",
+    "data_files": {
+               "opportunity_file" : "NTBTWENTYONE.csv"
+        
+      }
+   }
+  
+  ]
+}

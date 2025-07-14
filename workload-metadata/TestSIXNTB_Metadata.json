@@ -1,0 +1,14 @@
+{
+  "jmeter_version" : "5.6.3",
+  "tasks": [
+    {
+    "task_name": "Test-NTBLogin6",
+    "script_name": "NTBTWOFIFTY.jmx",
+    "data_files": {
+               "opportunity_file" : "NTBSIX.csv"
+        
+      }
+   }
+  
+  ]
+}

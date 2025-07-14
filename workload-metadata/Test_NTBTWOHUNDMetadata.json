@@ -1,0 +1,37 @@
+{
+  "jmeter_version" : "5.6.3",
+  "tasks": [
+    {
+    "task_name": "Test-NLogin17",
+    "script_name": "NTBTWOHUNDTOKEN.jmx",
+    "data_files": {
+               "opportunity_file" : "NTBSEVENTEENTWOHUND.csv"
+        
+      }
+    },
+      {
+    "task_name": "Test-NLogin18",
+    "script_name": "NTBTWOHUNDTOKEN.jmx",
+    "data_files": {
+               "opportunity_file" : "NTBEIGHTEENTWOHUND.csv"
+        
+      }
+      },
+        {
+    "task_name": "Test-NLogin19",
+    "script_name": "NTBTWOHUNDTOKEN.jmx",
+    "data_files": {
+               "opportunity_file" : "NTBNINETEENTWOHUND.csv"
+        
+      }
+        },
+        {
+    "task_name": "Test-NLogin20",
+    "script_name": "NTBTWOHUNDTOKEN.jmx",
+    "data_files": {
+               "opportunity_file" : "NTBTWENTYTWOHUND.csv"
+        
+      }
+      }  
+  ]
+}

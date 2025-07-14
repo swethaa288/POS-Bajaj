@@ -1,0 +1,14 @@
+{
+  "jmeter_version" : "5.6.3",
+  "tasks": [
+    {
+    "task_name": "Test-CLogin3",
+    "script_name": "CustomerCreation.jmx",
+    "data_files": {
+               "opportunity_file" : "CCCTHREE.csv"
+        
+      }
+   }
+  
+  ]
+}

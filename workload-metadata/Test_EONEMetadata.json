@@ -1,0 +1,30 @@
+{
+  "jmeter_version" : "5.6.3",
+  "tasks": [
+    {
+    "task_name": "Test-Login1",
+    "script_name": "ETBTWOFIFTYTOKEN.jmx",
+    "data_files": {
+               "opportunity_file" : "DETBONE.csv"
+        
+      }
+   },
+    {
+    "task_name": "Test-Login1",
+    "script_name": "ETBTWOFIFTYTOKEN.jmx",
+    "data_files": {
+               "opportunity_file" : "DDETBTWOO.csv"
+        
+      }
+   },
+    {
+    "task_name": "Test-Login1",
+    "script_name": "ETBTWOFIFTYTOKEN.jmx",
+    "data_files": {
+               "opportunity_file" : "DETBTHREE.csv"
+        
+      }
+   }
+  
+  ]
+}

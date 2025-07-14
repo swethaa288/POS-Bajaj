@@ -1,0 +1,14 @@
+{
+  "jmeter_version" : "5.6.3",
+  "tasks": [
+    {
+    "task_name": "Test-NLogin1",
+    "script_name": "NTBHUN.jmx",
+    "data_files": {
+               "opportunity_file" : "NTBSIXTEENTK.csv"
+        
+      }
+}
+  
+  ]
+}

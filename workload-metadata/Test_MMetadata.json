@@ -1,0 +1,14 @@
+{
+  "jmeter_version" : "5.6.3",
+  "tasks": [
+    {
+    "task_name": "Test-Login",
+    "script_name": "NTBUsers50.jmx",
+    "data_files": {
+               "opportunity_file" : "NTBUSERS.csv"
+        
+      }
+   }
+  
+  ]
+}
